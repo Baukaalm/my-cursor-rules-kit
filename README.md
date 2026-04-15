@@ -6,4 +6,4 @@ This repository contains my personal Cursor rules and coding conventions for Typ
 
 ## Setup
 
-Move or save all rule files into the `./cursor/rules` directory so Cursor can properly detect and apply them.
+Move or save all rule files into the `.cursor/rules` directory so Cursor can properly detect and apply them.
